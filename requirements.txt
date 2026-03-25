@@ -1,0 +1,4 @@
+confluent-kafka==2.4.0   # Kafka producer/consumer
+psycopg2-binary==2.9.9  # Postgres connector
+python-dotenv==1.0.1    # Load .env config files
+faker==24.0.0           # Generate fake data for demos
